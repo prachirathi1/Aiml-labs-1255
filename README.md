@@ -4,4 +4,4 @@
 3.[Lab-03](https://github.com/prachirathi1/Aiml-labs-1255/blob/main/lab_03.ipynb)
 4.[Lab-04]()
 5.[Lab-05]()
-6.[Lab-06](https://github.com/prachirathi1/Aiml-labs-1255/blob/main/lab_06.ibynb)
+6.[Lab-06](https://github.com/prachirathi1/Aiml-labs-1255/blob/main/lab-06.ibynb)
