@@ -5,5 +5,5 @@
 4.[Lab-04]()
 5.[Lab-05]()
 6.[Lab-06](https://github.com/prachirathi1/Aiml-labs-1255/blob/main/lab-06.ipynb)
-7.[Lab-07](https://github.com/prachirathi1/Aiml-labs-1255/blob/main/lab-07.ipynb)
+7.[Lab-07](https://github.com/prachirathi1/Aiml-labs-1255/blob/main/Lab_07.ipynb)
 
