@@ -17,4 +17,4 @@
 
 9.[Lab-09](https://github.com/prachirathi1/Aiml-labs-1255/blob/main/Lab_09.ipynb)
 
-10.[Lab-10](https://github.com/prachirathi1/Aiml-labs-1255/blob/main/)
+10.[Lab-10](https://github.com/prachirathi1/Aiml-labs-1255/blob/main/Lab10.ipynb)
